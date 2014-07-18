@@ -1,0 +1,6 @@
+provision: none
+description: Ubuntu 14.04 Desktop (gnome-session-flashback) that contains all dependencies of softcover to use it or to start developing.
+username: vagrant
+password: vagrant
+size: 2.0 GB
+image: https://vagrantcloud.com/pussinboots/ubuntu-truly-softcover
